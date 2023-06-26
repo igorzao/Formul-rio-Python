@@ -1,0 +1,3 @@
+title=Formulário Offline
+author=Igor Yukio
+orientation=portrait
